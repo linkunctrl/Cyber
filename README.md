@@ -2,7 +2,7 @@
 
 Notes and curated resources for deepening knowledge in Networking, Operating System Internals, Penetration Testing, and more.
 
-## Essential Reading
+## Reading
 
 ### Books
 
