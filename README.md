@@ -8,7 +8,7 @@ Notes and curated resources for deepening knowledge in Networking, Operating Sys
 
 | Resource Title | Link |
 | :--- | :--- |
-| Computer Networking: A Top-Down Approach | [View PDF](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%2Cconverted.pdf) |
+| Computer Networking: A Top-Down Approach | [View PDF](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf) |
 
 ## Video Courses & Tutorials
 
