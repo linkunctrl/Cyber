@@ -20,3 +20,8 @@ Notes and curated resources for deepening knowledge in Networking, Operating Sys
 * OS Internals
 * Networking
 * Pentesting
+
+## Free Courses 
+| Course | Link |
+| :--- | :--- |
+| Cisco Networking Basics | [View Course](https://www.netacad.com/courses/networking-basics?courseLang=en-US) |
